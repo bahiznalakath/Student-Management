@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "877661901506",
+    "project_id": "student-management-4f2e5",
+    "storage_bucket": "student-management-4f2e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877661901506:android:dcf0a835b5108905f1215b",
+        "android_client_info": {
+          "package_name": "com.example.bahiz_student_mangae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877661901506-606saj0s2rm4stm3gj6vfvl52s0s9d36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bahiz_student_mangae",
+            "certificate_hash": "84e9aac5c03d4d1c8d737b6df07306eb4114df42"
+          }
+        },
+        {
+          "client_id": "877661901506-k7g6342fdhtstpnvig38d7l3toivb88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxNqs_Xtp4iSXoBsTtGooJcjUhLLPzs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877661901506-k7g6342fdhtstpnvig38d7l3toivb88v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877661901506:android:337a2e556355c6e5f1215b",
+        "android_client_info": {
+          "package_name": "com.example.student_details"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877661901506-k7g6342fdhtstpnvig38d7l3toivb88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxNqs_Xtp4iSXoBsTtGooJcjUhLLPzs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877661901506-k7g6342fdhtstpnvig38d7l3toivb88v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
